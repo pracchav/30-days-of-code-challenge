@@ -1,2 +1,2 @@
 print("hello")
-print("Changes done by prachi chavan")
+print("Changes done by prachi")
